@@ -1,2 +1,2 @@
 # timy
-universal camera timer written in micropython for the M5Stack
+Universal camera timer written in micropython for the M5Stack
